@@ -1,1 +1,1 @@
-# Coursera-NN-and-DL
+# Coursera Neural Networks and Deep Learning
