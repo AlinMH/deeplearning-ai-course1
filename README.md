@@ -1,4 +1,7 @@
-# Coursera Neural Networks and Deep Learning
+# Deep Learning AI Specialization
 
-Ceritificate link:
+* Neural Networks and Deep Learning ceritificate link:
 https://www.coursera.org/account/accomplishments/verify/PCRG235NY5BZ
+
+* Improving Deep Neural Networks: Hyperperameter tuning, Regularization and Optimization certificate link:
+https://www.coursera.org/account/accomplishments/verify/SZGVQZRMQBWY
