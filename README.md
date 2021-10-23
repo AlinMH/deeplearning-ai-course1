@@ -8,3 +8,6 @@ https://www.coursera.org/account/accomplishments/verify/SZGVQZRMQBWY
 
 * Structuring Machine Learning Projects certificate link:\
 https://www.coursera.org/account/accomplishments/verify/E3YFVJXGSWNG
+
+* Convolutional Neural Networks certificate link:\
+https://www.coursera.org/account/accomplishments/certificate/3J8DRLFKU2VG
