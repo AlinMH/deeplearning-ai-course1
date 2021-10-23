@@ -10,4 +10,4 @@ https://www.coursera.org/account/accomplishments/verify/SZGVQZRMQBWY
 https://www.coursera.org/account/accomplishments/verify/E3YFVJXGSWNG
 
 * Convolutional Neural Networks certificate link:\
-https://www.coursera.org/account/accomplishments/certificate/3J8DRLFKU2VG
+https://www.coursera.org/account/accomplishments/verify/3J8DRLFKU2VG
